@@ -126,12 +126,12 @@ Stores album information including:
 
 ```text
 src/
-├── Controllers/
-├── Routes/
-├── Services/
-├── Models/
-├── Middlewares/
-├── Database/
+├── controllers/
+├── routes/
+├── services/
+├── models/
+├── middlewares/
+├── database/
 └── app.js
 ```
 
